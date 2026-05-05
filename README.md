@@ -98,11 +98,3 @@ that are non-functional or in need of repair.
 - Deploy the model as a web application
 
 ---
-
-## Contributors
-- Winnie Nduva
-
----
-
-## License
-This project is licensed under the MIT License
