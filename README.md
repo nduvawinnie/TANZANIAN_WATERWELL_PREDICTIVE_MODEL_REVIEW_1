@@ -27,6 +27,17 @@ that are non-functional or in need of repair.
    in Tanzania
 
 ---
+
+## Success Metrics
+- Successfully identify and rank the top features 
+  contributing to water point failure through 
+  feature importance analysis and EDA
+- Build a predictive classification model with 
+  an accuracy of at least 80%
+- Successfully provide actionable insights to guide 
+  future water point constructions in Tanzania
+
+---
 ## Data Understanding
 - **Source:** Tanzanian Ministry of Water via DrivenData Competition
 - **Records:** 59,400
