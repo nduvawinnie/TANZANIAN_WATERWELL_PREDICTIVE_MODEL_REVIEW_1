@@ -1,0 +1,55 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environment files
+.env
+*.env
+venv/
+env/
+.venv/
+
+# Anaconda
+*.conda
+*.egg-info/
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Model files
+*.pkl
+*.pickle
+*.h5
+*.joblib
+
+# Log files
+*.log
+*.out
+*.err
+
+# Output files
+outputs/
+results/
