@@ -24,7 +24,7 @@ that are non-functional or in need of repair.
 2. Build a predictive classification model to identify functional and 
    non-functional water points
 3. Provide actionable insights to guide future water point constructions 
-   in Tanzania
+   in Tanzania.
 
 ---
 
