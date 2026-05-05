@@ -1,19 +1,40 @@
+# Tanzanian Water Wells Prediction
+
+## Overview
+This project aims to predict the operational status of water points in Tanzania
+using machine learning classification models. The project was completed as part 
+of a data science project for Water Wells for Africa (WWFA), a non-governmental 
+organization committed to ensuring sustainable access to clean water across 
+rural and underserved communities in Africa.
+
 ---
 
-## Libraries Used
-```python
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import classification_report, confusion_matrix
-```
+## Business Problem
+Tanzania, a developing nation with a population of over 57 million people, 
+faces a critical water access crisis. A significant number of water points 
+are either non-functional or in need of repair, leaving millions of citizens 
+without reliable access to clean water. This project aims to build a 
+predictive classification model that can accurately identify water points 
+that are non-functional or in need of repair.
+
+---
+
+## Objectives
+1. Identify the key drivers of water point failures in Tanzania
+2. Build a predictive classification model to identify functional and 
+   non-functional water points
+3. Provide actionable insights to guide future water point constructions 
+   in Tanzania
+
+---
+## Data Understanding
+- **Source:** Tanzanian Ministry of Water via DrivenData Competition
+- **Records:** 59,400
+- **Columns:** 40 (31 categorical, 9 numerical)
+- **Target Variable:** status_group
+  - Functional
+  - Non Functional
+  - Functional Needs Repair
 
 ---
 
