@@ -109,3 +109,11 @@ that are non-functional or in need of repair.
 - Deploy the model as a web application
 
 ---
+
+## Technologies Used
+- Python
+-  Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
